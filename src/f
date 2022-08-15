@@ -1,0 +1,32 @@
+ //       @Override
+     //       public int compare(Students student1, Students student2) {
+     //           return student1.getGpa().compareTo(student2.getGpa());
+     //       }
+//
+     //   });
+     //       @Override
+     //       public int compare(Students student1, Students student2) {
+     //           return student1.getFIO().compareTo(student2.getFIO());
+
+     //       }
+     //   });
+     //  treeSet.add(students1);
+     //  treeSet.add(students2);
+     //  treeSet.add(students3);
+     //  treeSet.add(students4);
+
+     //  treeSet.add(students5);
+     //  treeSet.add(students6);
+     //  treeSet.add(students7);
+     //  treeSetAccounter.add(students1);
+     //  treeSetAccounter.add(students2);
+     //  treeSetAccounter.add(students3);
+
+     //  treeSetAccounter.add(students4);
+     //  treeSetAccounter.add(students5);
+    }
+}
+     //  treeSetAccounter.add(students6);
+     //  treeSetAccounter.add(students7);
+     //  System.out.println(treeSet);
+     //  System.out.println(treeSetAccounter);
